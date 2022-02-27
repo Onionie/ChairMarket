@@ -19,6 +19,16 @@ body {
   font-family: sans-serif;
 }
 
+footer a {
+  text-decoration: none;
+  color: rgb(46, 46, 168);
+}
+
+footer a:visited {
+  text-decoration: none;
+  color: rgb(46, 46, 168);
+}
+
 .container {
   width: 960px;
   margin: 0 auto;
